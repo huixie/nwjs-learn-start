@@ -1,0 +1,13 @@
+{
+  "main":"views/main.html",
+  "name":"my-nw-demo",
+  "version": "1.0.0",
+  "window":{
+    "title":"hello World",
+    "width":400,
+    "height":400,
+    "position":"center",
+    "icon":"images/logo.png",
+    "show_in_taskbar":true
+  }
+}

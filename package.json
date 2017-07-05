@@ -1,0 +1,12 @@
+{
+  "name": "nw.js-example",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nw src/",
+    "prod": "nwbuild --platforms win32,win64 --buildDir dist/ src/"
+  },
+  "devDependencies": {
+    "nw": "^0.23.5",
+    "nw-builder": "^3.4.1"
+  }
+}
